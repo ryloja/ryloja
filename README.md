@@ -53,9 +53,10 @@
 - 🔭 I’m currently working on ...
 
 ### Where to find me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE)
+[![Credly](https://img.shields.io/badge/-Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/robert-russell.dd3f74d7/badges#credly)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ryloja)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rar0580@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE)
 
 
 -->
