@@ -39,14 +39,15 @@
 ![Google Cloud Platform](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
-#### Development Environments
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-FF6F00?style=flat-square&logo=jupyter&logoColor=white)
+#### Development Environments / Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-FF6F00?style=flat-square&logo=jupyter&logoColor=white)
 ![KNIME](https://img.shields.io/badge/-KNIME-F2E500?style=flat-square&logo=knime&logoColor=black)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 #### Development Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 
 
 - 🔭 I’m currently working on ...
