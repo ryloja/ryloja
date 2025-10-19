@@ -1,7 +1,9 @@
-## <img src="https://emoji.slack-edge.com/T011UM83BV0/hi_green/aaf8115ef2c4d8ec.gif" width="28" alt="hi" /> Hi there, I am Rob Russell
+## <img src="https://emoji.slack-edge.com/T011UM83BV0/hi_green/aaf8115ef2c4d8ec.gif" width="28" alt="hi" /> Hi there, I am Rob Russell, a business intelligence engineer specializing in data engineering, cloud platforms, and visualizations. I love learning something new daily and using AI to help with development. 
+
+
+
 
 ### Things I code with / Skills
-
 #### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square)
@@ -20,8 +22,8 @@
 
 #### Business Intelligence
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-4285F4?style=flat-square&logo=lookerstudio&logoColor=white)
 ![Looker](https://img.shields.io/badge/-Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-4285F4?style=flat-square&logo=lookerstudio&logoColor=white)
 ![ThoughtSpot](https://img.shields.io/badge/-ThoughtSpot-1F1F1F?style=flat-square&logo=thoughtspot&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
@@ -46,11 +48,13 @@
 ![KNIME](https://img.shields.io/badge/-KNIME-F2E500?style=flat-square&logo=knime&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-#### Development Tools
+
 
 
 
 - 🔭 I’m currently working on ...
+
+
 
 ### Where to find me
 [![Credly](https://img.shields.io/badge/-Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/robert-russell.dd3f74d7/badges#credly)
