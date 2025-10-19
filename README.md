@@ -1,4 +1,6 @@
-## <img src="https://emoji.slack-edge.com/T011UM83BV0/hi_green/aaf8115ef2c4d8ec.gif" width="28" alt="hi" /> Hi there, I am Rob Russell, a business intelligence engineer specializing in data engineering, cloud platforms, and visualizations. I love learning something new daily and using AI to help with development. 
+## <img src="https://emoji.slack-edge.com/T011UM83BV0/hi_green/aaf8115ef2c4d8ec.gif" width="28" alt="hi" /> Hi there, I am Rob Russell
+
+I am a business intelligence engineer specializing in data engineering, cloud platforms, and visualizations. I love learning something new daily and using AI to help with development. 
 
 
 
